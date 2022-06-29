@@ -3,11 +3,8 @@
 
 # USAGE
 
-```swift
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
+https://user-images.githubusercontent.com/28716129/176537798-b4e978c5-7fdb-4352-93aa-c482ab2e8163.mov
 
 Add OnOffIcons file in your project and give a try below code
 
@@ -29,6 +26,3 @@ Add OnOffIcons file in your project and give a try below code
             }
             
         }
-
-https://user-images.githubusercontent.com/28716129/176537798-b4e978c5-7fdb-4352-93aa-c482ab2e8163.mov
-
