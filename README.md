@@ -3,6 +3,12 @@
 
 # USAGE
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 Add OnOffIcons file in your project and give a try below code
 
     VStack (spacing: 45){
